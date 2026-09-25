@@ -188,11 +188,11 @@ const divyanshu = {
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-chauhan000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-chauhan000&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
