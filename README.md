@@ -192,7 +192,7 @@ const divyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-chauhan000&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-chauhan000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
